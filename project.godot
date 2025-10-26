@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="Project Satsuki"
-run/main_scene="uid://cxbnsyywh3ghr"
+run/main_scene="uid://buv8px6rgg0td"
 config/features=PackedStringArray("4.5", "GL Compatibility")
+boot_splash/image="uid://daud3u2cupbsu"
 config/icon="uid://daud3u2cupbsu"
 
 [editor]
